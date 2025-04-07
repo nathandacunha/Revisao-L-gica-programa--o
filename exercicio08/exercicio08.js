@@ -1,5 +1,5 @@
 function exercicio08(){
-    let num = Array(2, 3)
+    const num = Array(2, 3)
     let x, y;
     for (x = 0; x < 2; x++){
         for(y = 0; y < 3; y++){
